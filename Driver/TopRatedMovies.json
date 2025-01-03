@@ -1,0 +1,32 @@
+[
+    {
+        "Title": "Pathaan",
+        "Genre": "Action",
+        "Release_year": 2023,
+        "Rating": 4.5
+    },
+    {
+        "Title": "RRR",
+        "Genre": "Action",
+        "Release_year": 2022,
+        "Rating": 4.8
+    },
+    {
+        "Title": "Kantara",
+        "Genre": "Action, Drama",
+        "Release_year": 2022,
+        "Rating": 4.7
+    },
+    {
+        "Title": "Pushpa: The Rise",
+        "Genre": "Action, Drama",
+        "Release_year": 2021,
+        "Rating": 4.3
+    },
+    {
+        "Title": "Vikram Vedha",
+        "Genre": "Action, Thriller",
+        "Release_year": 2022,
+        "Rating": 4.2
+    }
+]
